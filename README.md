@@ -1,2 +1,2 @@
-# game-tictactoe
+# Tictactoe
 Enjoy playing tictactoe.
